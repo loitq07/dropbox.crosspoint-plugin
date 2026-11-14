@@ -1,0 +1,22 @@
+{
+  "name": "dropbox",
+  "title": "Dropbox",
+  "description": "Download books and documents directly from your Dropbox.",
+  "description_vi": "Tải sách và tài liệu trực tiếp từ Dropbox của bạn.",
+  "author": "loitq07",
+  "version": "1.0.0",
+  "compatibility": {
+    "firmware_family": "crosspoint",
+    "plugin_api_min": 1
+  },
+  "files": [
+    "manifest.json",
+    "device.json",
+    "README.md",
+    "DETAILS.md",
+    "icon.png",
+    "icon.bmp",
+    "config.json",
+    "config.example.json"
+  ]
+}
